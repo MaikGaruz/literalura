@@ -1,5 +1,10 @@
 # literalura
  Solucion al literalura-challenge
+
+- IDE: IntelliJ IDEA
+- Lenguaje: Java
+- Framework: Spring boot
+- Herramientas: Jackson Databind
  
 El funcionamiento del programa es obtener datos de un libro mediante el nombre!
 Los datos que se traeran son el nombre, los autores, los idiomas y el numero total de descargas.
